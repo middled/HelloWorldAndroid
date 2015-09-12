@@ -22,11 +22,11 @@ public class MainActivity extends Activity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
+        // Handle action bar item clicks here. The action bar willsfdssdgds
         // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
+        // as you specify a parent activity in AndroidManifest.xml.sdgdsgssgdsgdsgds
         int id = item.getItemId();
-
+        int bober = 5;
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
